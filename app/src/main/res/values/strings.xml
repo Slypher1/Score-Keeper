@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ChallengeMS</string>
+    <string name="title">Movies &amp; TV series\nThe Challenge</string>
+    <string name="score">0</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="movie">To see a Movie</string>
+    <string name="moviePT">+1 PT</string>
+    <string name="short_seasson">To see a short season (up to 12 ep)</string>
+    <string name="short_seassonPT">+2 PT</string>
+    <string name="long_seasson">To see a long season (up to 24 ep)</string>
+    <string name="long_seassonPT">+4 PT</string>
+    <string name="save">save</string>
+    <string name="reset">reset</string>
+    <string name="toast_text">Score saved</string>
+</resources>

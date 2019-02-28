@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="dim_title">32sp</dimen>
+    <dimen name="dim_player">16sp</dimen>
+    <dimen name="dim_button_text">16sp</dimen>
+    <dimen name="dim_score">64sp</dimen>
+    <dimen name="dim_margin1">8dp</dimen>
+    <dimen name="dim_margin2">16dp</dimen>
+    <dimen name="dim_margin3">24dp</dimen>
+    <dimen name="zero">0dp</dimen>
+
+</resources>
